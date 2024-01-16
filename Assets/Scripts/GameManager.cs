@@ -80,7 +80,7 @@ public class GameManager : MonoBehaviour
         if (newGameState == GameState.inBattle)
         {
             //TODO: Logica al estar en batalla.
-
+            BattleTurnManager.sharedInstanceBattleTurnManager.SortTurnsByAgility();
         }
         else if (newGameState == GameState.exploring)
         {
