@@ -8,7 +8,7 @@ public class TestingButton : MonoBehaviour
     public DialogueManager dialogueManager;
     public void Start()
     {
-        dialogueManager = GameObject.Find("Dialogue Manager").GetComponent<DialogueManager>(); // Gets reference of Dialogue Manager.
+        dialogueManager = GameObject.Find("DialogueManager").GetComponent<DialogueManager>(); // Gets reference of Dialogue Manager.
     }
     public void StartTestingDialogue()
     {
