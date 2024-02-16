@@ -18,6 +18,8 @@ MonoBehaviour:
     placerat, dui libero porttitor leo, in tincidunt nibh lacus et quam. '
   CharacterName: Sapo
   CharacterImage: {fileID: 0}
-  nextDialogue: {fileID: 11400000, guid: 745994ed91a60ce489a7ea3a93351c5a, type: 2}
+  nextDialogue: {fileID: 11400000, guid: f67960a3cf1a38d4ba1fc1e29b73c30d, type: 2}
   previousDialogue: {fileID: 0}
   waitTime: 0.02
+  nameColor: {r: 1, g: 1, b: 1, a: 1}
+  textColor: {r: 1, g: 1, b: 1, a: 1}

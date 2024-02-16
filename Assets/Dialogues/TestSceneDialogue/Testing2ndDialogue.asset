@@ -17,6 +17,8 @@ MonoBehaviour:
     gonna tell a lie and hurt you
   CharacterName: Perro
   CharacterImage: {fileID: 0}
-  nextDialogue: {fileID: 11400000, guid: b4ce87d230d4de94b9e745300adfcca8, type: 2}
-  previousDialogue: {fileID: 11400000, guid: 04f65fa79c785ec4fb5386fc993ca1ee, type: 2}
+  nextDialogue: {fileID: 11400000, guid: 7222c57f5fc174a469415e74422d9aad, type: 2}
+  previousDialogue: {fileID: 11400000, guid: 22e7f483c71e5b54183c660571f31e9c, type: 2}
   waitTime: 0.1
+  nameColor: {r: 1, g: 1, b: 1, a: 1}
+  textColor: {r: 1, g: 0.37169808, b: 0.8849946, a: 1}

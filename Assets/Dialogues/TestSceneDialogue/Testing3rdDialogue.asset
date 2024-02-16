@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Testing3rdDialogue
   m_EditorClassIdentifier: 
   DialogueText: Hello hello kjasdjkasdasdlaskdjaskdj
-  CharacterName: hola
+  CharacterName: Hola
   CharacterImage: {fileID: 0}
-  nextDialogue: {fileID: 0}
-  previousDialogue: {fileID: 11400000, guid: 745994ed91a60ce489a7ea3a93351c5a, type: 2}
+  nextDialogue: {fileID: 11400000, guid: b0e1a05d57c3462468e82ff9594cf27a, type: 2}
+  previousDialogue: {fileID: 11400000, guid: f67960a3cf1a38d4ba1fc1e29b73c30d, type: 2}
   waitTime: 0.5
+  nameColor: {r: 0.10614096, g: 0.8396226, b: 0.27606326, a: 1}
+  textColor: {r: 1, g: 0.5269067, b: 0, a: 1}
