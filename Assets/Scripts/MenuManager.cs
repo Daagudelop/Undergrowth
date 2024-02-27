@@ -24,6 +24,8 @@ public class MenuManager : MonoBehaviour
         if (sharedInstanceMenuManager == null)
         {
             sharedInstanceMenuManager = this;
+        } else {
+            Destroy(gameObject);
         }
     }
     private void Start()
@@ -160,6 +162,12 @@ public class MenuManager : MonoBehaviour
     {
         CloseMenu();
         SceneManager.LoadScene("Main");
+    }
+    public void GoToMainMenu()
+    {
+        CloseMenu();
+        SceneManager.LoadScene("MainMenu");
+        ShowMainMenu();
     }
     // Quit game function
     public void ExitGame()
