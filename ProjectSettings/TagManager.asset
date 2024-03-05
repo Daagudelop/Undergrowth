@@ -9,6 +9,8 @@ TagManager:
   - TeamMate
   - Ally
   - Infected
+  - AllyPos
+  - IAPos
   layers:
   - Default
   - TransparentFX

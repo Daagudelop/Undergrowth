@@ -10,7 +10,6 @@ public enum GameState
     inMenu,
     inInventory,
     gameOver,
-
 }
 public class GameManager : MonoBehaviour
 {
@@ -109,9 +108,7 @@ public class GameManager : MonoBehaviour
         }
         else if (newGameState == GameState.gameOver)
         {
-
             //TODO: Lógica al morir, perder la partida.
-
             /*MenuManager.sharedInstance.showGameOverMenu();
             MenuManager.sharedInstance.HideInGameMenu();*/
         }
