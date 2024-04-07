@@ -18,6 +18,7 @@ public class GameManager : MonoBehaviour
     public static GameManager sharedInstanceGameManager;
     private void Awake()
     {
+        DontDestroyOnLoad(gameObject);
         if (sharedInstanceGameManager == null)
         {
             sharedInstanceGameManager = this;
@@ -79,7 +80,7 @@ public class GameManager : MonoBehaviour
         if (newGameState == GameState.inBattle)
         {
             //TODO: Logica al estar en batalla.
-            BattleTurnManager.sharedInstanceBattleTurnManager.SortTurnsByAgility();
+
         }
         else if (newGameState == GameState.exploring)
         {

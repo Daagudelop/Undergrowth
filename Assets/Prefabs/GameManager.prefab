@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 241898424919375261}
   - component: {fileID: 3015446657457798293}
-  - component: {fileID: 8108568934419844989}
+  - component: {fileID: 3707014865085276764}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentGameState: 2
---- !u!114 &8108568934419844989
+--- !u!114 &3707014865085276764
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -55,12 +55,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 8332913692632026208}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64dc0d71a3f533a4c8057461a88663c2, type: 3}
+  m_Script: {fileID: 11500000, guid: d45b8500ff3b10e428716ce6bcfa1796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemies: []
-  neutral: []
-  allys: []
-  teamMates: []
-  infected: []
-  all: []
+  teamsMembers:
+    _serializedList: []
