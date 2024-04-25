@@ -39,7 +39,7 @@ public class EntityTeamsData : MonoBehaviour
     {
         /*
             The idea is simple, to use a dictionary to store the name of the team and 
-            whatever gameobject subtyte of Entity Type, and member of a team, They are sorted
+            whatever gameobject subtype of Entity Type, and member of a team, They are sorted
             by the same dictionary function containsKey, it will search for your key (the name of the team)
             and will add to the list parented to the key if already exits, else will create a new key, new 
             parented list and will add it to it, that´s why you write the name once on
