@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: 206ea759d28f82e45a603cc091d43dc9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08c9f73e286e584b9c15612ac1e6e02
+      internalID: 1720413322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db775236ac50d4a934f0e818ebefc7
+      internalID: -955794151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd02124c3c93b34d9f610667e91cf7f
+      internalID: -1925821971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09463a6594b57ca4e8527680c0d0a1e2
+      internalID: -1251471805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b61ebd354f324e825ac0d91765779
+      internalID: 154120023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20cff04231b97e4995a6e3e2499c005
+      internalID: -651516126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a66ac16e34c242ae7dd4a1c266dbd
+      internalID: -195926881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e4f95b01aa4ad4c80c6031b581f078
+      internalID: -619646510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 586.6666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8e780f7ba97d4b8f0288dd44a7356
+      internalID: -562608953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c79cf2827d1184791e67adeb8c52de
+      internalID: -1012650763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919991170e1d75e48b2abc6218e7b0f0
+      internalID: -115721468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a151aad6c282914e8ee1f91b27e031c
+      internalID: -2071521330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafc050b628ef7143911782dc3705dda
+      internalID: 248744396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cc7b68a00ddad4bbe8505df4cf6d95
+      internalID: 1218726543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d936897ab91ea44d89825b0c4774a98
+      internalID: 1172956700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236c405cb3b3874eaf485037a8683cb
+      internalID: -639600261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_16
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fcdd7c92db69041b27750f40d98921
+      internalID: -832378069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_17
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 293.66666
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74798e5b09955044da94005b5761bb12
+      internalID: -51221297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0074f5882eda840874f525df146638
+      internalID: -1392284565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0.6666565
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc95aeef89d13d4e9481c5069806c52
+      internalID: -441622929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0.6666565
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4c0b0a9d646de42ab24a269f9b8d91
+      internalID: 1916377108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0.6666565
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c5b0599d58fba46b96b9fd97d12b58
+      internalID: 569059358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0.6666565
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8ceb0f3e9485847b8a9450edb6ee68
+      internalID: 1540280263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0.6666565
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aca2e55559ee0b419f8a995cd8fc781
+      internalID: 1440070090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney.nl_platformer_characters_-_zombie_vector.svg_24
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0.6666565
+        width: 213.33333
+        height: 293.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb7b8280b7ffe43bd57e3542ff850f
+      internalID: 665015093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a6193fbe2fd7ca740bc547c8ddf62121
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_0: 1720413322
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_1: -955794151
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_10: -115721468
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_11: -2071521330
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_12: 248744396
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_13: 1218726543
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_14: 1172956700
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_15: -639600261
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_16: -832378069
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_17: -51221297
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_18: -1392284565
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_19: -441622929
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_2: -1925821971
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_20: 1916377108
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_21: 569059358
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_22: 1540280263
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_23: 1440070090
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_24: 665015093
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_3: -1251471805
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_4: 154120023
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_5: -651516126
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_6: -195926881
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_7: -619646510
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_8: -562608953
+      Kenney.nl_platformer_characters_-_zombie_vector.svg_9: -1012650763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
